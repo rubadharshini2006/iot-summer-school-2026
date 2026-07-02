@@ -1,10 +1,10 @@
 /*
-----------------------------------------------------
+-----------------------------------------
 Author      : Rubadharshini S
 Date        : 02-07-2026
 Program     : LED Blink
-Description : Blinks the built-in LED every 1 second.
-----------------------------------------------------
+Description : LED blink speed controlled using potentiometer.
+-----------------------------------------
 */
 
 int count = 0;
