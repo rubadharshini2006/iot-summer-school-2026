@@ -2,9 +2,9 @@
 
 ## Student Details
 
-**Name:** Ruba Dharshini S
+**Name:** Rubadharshini S
 
-**Roll Number:** YOUR ROLL NUMBER
+**Roll Number:** 723923106017
 
 **College:** Arjun College of Technology
 
