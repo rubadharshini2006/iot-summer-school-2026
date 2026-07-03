@@ -1,6 +1,6 @@
 /*
   Traffic Light Controller with Pedestrian Button
-  Author: Your Name
+  Author: Rubadharshini
 */
 
 const int redLED = 2;
